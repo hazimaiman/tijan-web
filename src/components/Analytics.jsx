@@ -7,8 +7,8 @@ const Analytics = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img className='w-[500px] mx-auto my-4' src={Telco} alt='/' />
         <div className='flex flex-col justify-center'>
-          <p className='text-[#00df9a] font-bold '>DATA ANALYTICS DASHBOARD</p>
-          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Analytics Centrally</h1>
+          <p className='text-[#00df9a] font-bold text-xl '>Infrastructure maintenance</p>
+          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage reliable and efficient operation of the company's services</h1>
           <p>
             Infrastructure maintenance in the telecommunications industry is a critical aspect of ensuring reliable and high-quality services.
             Effective maintenance practices help prevent technical issues and service disruptions while ensuring that infrastructure can meet the growing demands of customers and new technologies.
