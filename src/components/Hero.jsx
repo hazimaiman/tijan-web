@@ -18,7 +18,7 @@ const Hero = () => {
             </div>
             
             <p className='md:text-2xl text-xl font-bold text-gray-500'>Maintaining and uprading the Physical Infrastructure such as Cell Tower, Fiber Optics and Data Center</p>
-            <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Get Started</button>
+            <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black'>Read More</button>
         </div>
     </div>
   )

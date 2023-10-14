@@ -22,7 +22,7 @@ const Cards = () => {
               <h2 className='text-2xl font-bold text-center py-8'>Azman Yusof</h2>
               <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>CFO</p>
-                  <p className='py-2 border-b mx-8'>25+ years experience as General Manager and Head of Finance</p>
+                  <p className='py-2 border-b mx-8'>26+ years experience as General Manager and Head of Finance</p>
                   <p className='py-2 border-b mx-8'>Savings pave the path to security.</p>
               </div>
               <button className='bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>Start Connect</button>
