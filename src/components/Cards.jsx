@@ -9,7 +9,7 @@ const Cards = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8'>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
               <img className='w-20 mx-auto mt-[-3rem] bg-white' src={Haji} alt="/" />
-              <h2 className='text-2xl font-bold text-center py-8'>Dato Haji Hadi</h2>
+              <h2 className='text-2xl font-bold text-center py-8'>Dato Haji Shahrul</h2>
               <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>CEO</p>
                   <p className='py-2 border-b mx-8'>30+ years Experience on TM Company</p>
