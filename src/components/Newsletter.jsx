@@ -17,9 +17,15 @@ const Newsletter = () => {
               type='email'
               placeholder='Enter Email'
             />
-            <button className='bg-[#1c9bf0] text-white rounded-md font-medium w-[200px] ml-4 my-6 px-6 py-3'>
-              Notify Me
-            </button>
+              <button
+                className="bg-[#1c9bf0] text-white rounded-md font-medium w-[200px] ml-4 my-6 px-6 py-3"
+                onClick={() => {
+                  window.location.href = "mailto:enquiry@tijan.com";
+                }}
+              >
+                Notify Me
+              </button>
+
           </div>
           {/* <p>
             We care bout the protection of your data. Read our{' '}
